@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmed-hussien90
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning Android development
+- 🌱 I’m currently learning Mobile App development
 
 
 <!---
