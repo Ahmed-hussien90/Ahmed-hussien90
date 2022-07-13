@@ -16,9 +16,7 @@ I am a student, currently studying Computer science in Cairo University. From ve
 
 ### Interesting stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hussien90&layout=compact&theme=radical)](https://github.com/Ahmed-Hussien90/github-readme-stats)
-
-![Ahmed's stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Hussien90&&show_icons=true&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hussien90&layout=compact&theme=radical)](https://github.com/Ahmed-Hussien90/github-readme-stats)![Ahmed's stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Hussien90&&show_icons=true&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
 ## Reach me 
