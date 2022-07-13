@@ -12,7 +12,7 @@ I am a student, currently studying in Cairo University. From very early on in my
 - **Moblie App Development (Android native & Flutter)**
 	- Kotlin, Java and Xml :white_check_mark:
 	- Dart
-	- Firebase & RoomDB :electron:
+	- Firebase & RoomDB 
 
 ## What I want to do next :thinking:
 - IOS Development
@@ -26,4 +26,7 @@ I am a student, currently studying in Cairo University. From very early on in my
 
 ### Interesting stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hussien90&layout=compact)](https://github.com/Ahmed-hussien90/github-readme-stats)
+
 ![Ahmed's stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Hussien90&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
