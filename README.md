@@ -20,7 +20,7 @@ I am a student, currently studying in Cairo University. From very early on in my
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/Ahmed-hussien90)
-[![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-hussien1/)](https://www.linkedin.com/in/ahmed-hussien1/)
+[![Linkedin](https://img.shields.io/badge/-Ahmed%20Hussien-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-hussien1/)](https://www.linkedin.com/in/ahmed-hussien1/)
 [![Mail](https://img.shields.io/badge/-Ahmed.hs9090@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/ahmed-hussien1/)](mailto:Ahmed.hs9090@gmail.com)
 
 
