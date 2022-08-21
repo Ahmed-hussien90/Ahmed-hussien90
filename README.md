@@ -8,11 +8,10 @@ I am a student, currently studying Computer science in Cairo University. From ve
 - **Competitive Programming**
 	- Java ❤️
 	- C++
-	- Some python
 - **Moblie App Development (Android native & Flutter)**
-	- Kotlin, Java and Xml :white_check_mark:
+	- Kotlin and Java :white_check_mark:
 	- Dart
-	- Firebase & RoomDB 
+	- xml and JetbackCompose
 
 ### Interesting stats
 
